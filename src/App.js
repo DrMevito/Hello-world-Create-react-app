@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
            😍 Hello World!😅
-            it's deba
+            it's deba 😘
           </p>          
         </header>
       </div>
